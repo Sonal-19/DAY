@@ -30,8 +30,8 @@ e_2.place(x=210,y=180)
 
 l_3= Label(ab,text="ROLL NO:",width=20,font=("bold",10))
 l_3.place(x=82,y=230)
-e_2=Entry(ab)
-e_2.place(x=210,y=230)
+e_3=Entry(ab)
+e_3.place(x=210,y=230)
 
 l_4=Label(ab,text="ADDRESS:",width=20,font=("bold", 10))
 l_4.place(x=80,y=280)
